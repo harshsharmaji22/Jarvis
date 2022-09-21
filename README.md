@@ -4,11 +4,8 @@ I built this app was actually to help me do some task, such as open up google, v
 
 Jarvis can do
 - Youtube Search
-- Google Search
-- Wikipedia Search
-- Whatsapp Automation
-- Small Talk
-- Jokes
+- Time
+- Date
 - Singing
 - NASA News
 - Alarm
