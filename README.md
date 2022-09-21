@@ -23,3 +23,9 @@ How to start
 ## Example
 
 <img src="asset/jarvis.png">
+
+Team members 
+1. Harsh sharma 
+2.Tushar Jain
+3.Rudraksh Kohli
+4.Soumya
